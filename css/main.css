@@ -1,0 +1,39 @@
+#logo {
+    margin: 60px auto;
+    width: 512px;
+}
+
+blockquote {
+    font-size: 1.4em;
+    page-break-inside: avoid;
+    text-align: center;
+    font-style: italic;
+}
+
+blockquote:before {
+    content: "\"";
+}
+
+blockquote:after {
+    content: "\"";
+}
+
+.content {
+    margin: 50px auto;
+    width: 512px;
+}
+
+
+ul {
+    padding: 0 10px;
+    list-style-type: none;
+}
+
+li:before {
+    padding-right: 20px;
+    content: "-";
+}
+
+li, p {
+    font-family: Arial, Helvetica;
+}
