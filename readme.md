@@ -1,5 +1,6 @@
 # js sdk
 
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
 > I'll never write these functions again.
 

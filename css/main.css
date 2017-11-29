@@ -1,3 +1,8 @@
+.container {
+    margin: 0 auto;
+    width: 512px;
+}
+
 #logo {
     margin: 60px auto;
     width: 512px;
